@@ -11,4 +11,4 @@ Under moderate and high emissions scenarios, which small island nations will los
 - Elevation per country from [GEBCO](https://www.gebco.net/data-products-gridded-bathymetry-data/gebco2025-grid)
 
 ## Summary 
-This project investigates which small island nations face existential threat from sea level rise under IPCC SSP2 and SSP5 emissions scenarios. Using IPCC AR6 sea level projections and CoastalDEM elevation data, I will estimate when each island crosses critical flood thresholds and what percentage of land area is at risk by 2050 and 2100. The analysis will produce maps, time-series projections, and elevation comparison figures for 4–5 low-lying island nations. 
+This project investigates which small island nations face existential threat from sea level rise under IPCC SSP2 and SSP5 emissions scenarios. Using IPCC AR6 sea level projections and GEBCO elevation data, I will estimate when each island crosses critical flood thresholds and what percentage of land area is at risk by 2050 and 2100. The analysis will produce maps, time-series projections, and elevation comparison figures for 4–5 low-lying island nations. 
